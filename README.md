@@ -9,5 +9,6 @@
 | --- | --- | --- |
 | a b c | def | ghi |
 
-~abc~
+~durchgestrichen~
 
+`code`
