@@ -5,5 +5,7 @@
 ![hampter](https://i.kym-cdn.com/entries/icons/facebook/000/036/317/Screen_Shot_2021-01-18_at_1.13.24_PM.jpg)
 
 
-| A1 | B2 |
-![image](https://user-images.githubusercontent.com/111045600/184094142-5705e456-cc93-419e-8832-75be843b8326.png)
+| 1+1 | 2+1 |
+| --- | --- |
+| 2 | 3 | 
+![image](https://user-images.githubusercontent.com/111045600/184094804-6660aced-a7c8-4ef7-81fb-9adc7e2b9b7e.png)
