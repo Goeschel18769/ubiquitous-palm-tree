@@ -8,4 +8,4 @@
 | 1+1 | 2+1 |
 | --- | --- |
 | 2 | 3 | 
-![image](https://user-images.githubusercontent.com/111045600/184094804-6660aced-a7c8-4ef7-81fb-9adc7e2b9b7e.png)
+
